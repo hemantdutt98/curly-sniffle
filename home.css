@@ -1,0 +1,42 @@
+body{
+	padding: 50px 0px 0px 0px;
+	font-family: 'Roboto', sans-serif;
+	/*font-family: 'Bangers', cursive;*/
+	z-index: 0;
+}
+#footjumbo{
+	padding: 50px;
+	background-color: grey;
+	color:white;
+}
+#carouselExampleCaptions{
+	background-color: #bfbfbf;
+
+}
+.jumbotron{
+	margin-top: 10px;
+	padding: 0px;
+}
+/*#headjumbo{
+	background-color: #bfbfbf;
+}*/
+#carouselButton {
+    position: absolute;
+    right:0px;
+    bottom: 0px;
+    z-index: 1;
+}
+.card{
+	width: 18rem;
+}
+.card-img-top{
+	height: 18rem;
+}
+.margn{
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+#navbrand
+{
+	font-family: 'Bangers', cursive;
+}
