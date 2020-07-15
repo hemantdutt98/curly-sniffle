@@ -27,11 +27,15 @@ body{
     z-index: 1;
 }
 .card{
-	width: 18rem;
+	width: 100%;
+	
 }
-.card-img-top{
-	height: 18rem;
+.card-body{
+	padding: 1rem;
 }
+.card-header{
+}
+
 .margn{
 	margin-top: 10px;
 	margin-bottom: 5px;
@@ -39,4 +43,8 @@ body{
 #navbrand
 {
 	font-family: 'Bangers', cursive;
+}
+.img-height{
+	height: 14rem;
+	border-radius: 10px;
 }
