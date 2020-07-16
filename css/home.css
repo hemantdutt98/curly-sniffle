@@ -1,9 +1,19 @@
 body{
-	padding: 50px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
 	font-family: 'Roboto', sans-serif;
 	/*font-family: 'Bangers', cursive;*/
 	z-index: 0;
 }
+#upperjumbo{
+	padding: 40px 20px 30px 30px;
+}
+#upperlogo{
+	color:#454748; font-size: 35px;
+}
+#search-input{
+	border-radius: 20px; border-color:#454748;position: relative; vertical-align: top;
+}
+
 #footjumbo{
 	padding: 50px;
 	background-color: grey;
@@ -14,7 +24,7 @@ body{
 
 }
 .jumbotron{
-	margin-top: 10px;
+	margin-top: 2px;
 	padding: 0px;
 }
 /*#headjumbo{
